@@ -10,6 +10,8 @@ import '../src/assets/css/bootstrap.css';
 import '../src/assets/css/flexslider.css';
 import '../src/assets/css/style.css';
 
+
+
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
