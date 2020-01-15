@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from '../src/app/App';
 import * as serviceWorker from './serviceWorker';
+
+import '../src/assets/css/animate.css';
+// import '../src/assets/css/icomoon.css'
+import '../src/assets/css/bootstrap.css';
+import '../src/assets/css/flexslider.css';
+import '../src/assets/css/style.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
