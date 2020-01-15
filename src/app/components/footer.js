@@ -35,7 +35,7 @@ function Cost() {
 					<h4>Contact Information</h4>
 					<ul className="fh5co-footer-links">
 						<li>198 West 21th Street,Suite 721 New York NY 10016</li>
-						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
+						<li><a href="tel://1234567920">+ 996 553 355 232</a></li>
 						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
 						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
 					</ul>
@@ -46,8 +46,7 @@ function Cost() {
 			<div className="row copyright">
 				<div className="col-md-12 text-center">
 					<p>
-						<small className="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small className="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small className="block">&copy; 2020 NSI PIXEL. All Rights Reserved.</small> 
 					</p>
 					<p>
 						<ul className="fh5co-social-icons">
