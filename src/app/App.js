@@ -25,6 +25,9 @@ export default class App extends React.Component {
                         <main>
                             <Component {...props} {...rest}/>
                         </main>
+                        <div className="gototop js-top">
+                            <a href="#" className="js-gotop"><i className="icon-arrow-up2">A</i></a>
+                        </div>
                     </div>
                     <Footer/>
                 </div>;

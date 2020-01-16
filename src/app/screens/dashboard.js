@@ -4,7 +4,7 @@ function Dashboard() {
   return (
     <div>
       {/* <div className="fh5co-loader"></div> */}
-	    <div id="page"></div>
+	    {/* <div id="page"></div> */}
 
         <div className="container">
 		<div id="fh5co-intro">
@@ -17,8 +17,8 @@ function Dashboard() {
 		<aside id="fh5co-hero">
 			<div className="flexslider">
 				<ul className="slides">
-			   	<li style={{ backgroundImage: `url(require("images/img_bg_1.jpg"))` }}>
-			   		<div className="overlay"></div>
+			   	<li>
+					   <img src={require('../../assets/images/img_bg_1.jpg')}/>
 			   		<div className="container-fluid">
 			   			<div className="row">
 				   			<div className="col-md-6 col-xs-8 col-md-offset-1 slider-text">
@@ -30,8 +30,8 @@ function Dashboard() {
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style={{ backgroundImage: `url(require("images/img_bg_2.jpg"))` }}>
-			   		<div className="overlay"></div>
+			   	<li >
+				   <img src={require('../../assets/images/img_bg_1.jpg')}/>
 			   		<div className="container-fluid">
 			   			<div className="row">
 				   			<div className="col-md-6 col-xs-8 col-md-offset-1 slider-text">
@@ -43,8 +43,8 @@ function Dashboard() {
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style={{ backgroundImage: `url(require("images/img_bg_3.jpg"))` }}>
-			   		<div className="overlay"></div>
+			   	<li >
+				   <img src={require('../../assets/images/img_bg_1.jpg')}/>
 			   		<div className="container-fluid">
 			   			<div className="row">
 				   			<div className="col-md-6 col-xs-8 col-md-offset-1 slider-text">
@@ -56,8 +56,8 @@ function Dashboard() {
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style={{ backgroundImage: `url(require("images/img_bg_4.jpg"))` }}>
-			   		<div className="overlay"></div>
+			   	<li>
+				   <img src={require('../../assets/images/img_bg_1.jpg')}/>
 			   		<div className="container-fluid">
 			   			<div className="row">
 				   			<div className="col-md-6 col-xs-8 col-md-offset-1 slider-text">
